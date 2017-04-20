@@ -1,4 +1,3 @@
 # macos-install
 
-TODO: Enter the cookbook description here.
-
+This cookbook installs the Xcode and Xcode tools packages on MacOS
